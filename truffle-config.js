@@ -39,7 +39,6 @@ module.exports = {
 			gas: 460000,
       from: '0x7529a3FA1934AdF47258937443196567AaB43Ac5',
     }
-    
 
   }
 };
