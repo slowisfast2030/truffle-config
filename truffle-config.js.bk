@@ -79,7 +79,7 @@ module.exports = {
 			network_id: "11155111",
 			provider: sepoliaProvider,
 			gas: 4600000,
-      from: '0xCA8415E9C49C69CAC55d640AA752cfe95Aeca071',
+      //from: '0xCA8415E9C49C69CAC55d640AA752cfe95Aeca071',
     },
     
     mainnet: {
