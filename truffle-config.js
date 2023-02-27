@@ -29,7 +29,7 @@ module.exports = {
 
     goerli: { 
 			network_id: "5",
-			provider: () => new HDWalletProvider(mnemonic, 'https://goerli.infura.io/v3/9faf676500e24b3693d74249d8c8412c'),
+			provider: new HDWalletProvider(mnemonic, 'https://goerli.infura.io/v3/9faf676500e24b3693d74249d8c8412c'),
 			gas: 460000,
       from: '0x7529a3FA1934AdF47258937443196567AaB43Ac5',
     },
